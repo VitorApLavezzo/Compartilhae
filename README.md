@@ -1,4 +1,4 @@
-# FoodShare
+# Compartilhae
 
 Plataforma distribuída de compartilhamento de alimentos excedentes, conectando
 restaurantes/mercados (doadores) a ONGs (receptoras), com rastreabilidade de
@@ -24,7 +24,7 @@ ponta a ponta e arquitetura preparada para múltiplos nós regionais.
 ## Estrutura do monorepo
 
 ```text
-foodshare/
+compartilhae/
 ├── apps/
 │   ├── web/     # frontend React/Vite
 │   └── api/     # backend NestJS + Prisma
